@@ -60,7 +60,7 @@ goalgrow/
 - Support multiple currencies
 
 ## Author
-Himani Shankar, CSE Student, DBIT Bengaluru
+Himani Shankar, CSE student, Bengaluru
 [GitHub](https://github.com/YOUR_USERNAME)
 
 ## License
